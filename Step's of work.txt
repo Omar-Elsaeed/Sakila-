@@ -1,0 +1,8 @@
+-- 1 -- open data on the sqlserver
+-- 2 -- write queries to analysis on this data
+-- 3 -- save the result in csv
+-- 4 -- after that open excel power query and collect the data
+-- 5 -- make an analysis process clean and EDA 
+-- 6 -- save and open in microsoft powerbi 
+-- 7 -- make an question's by Chart and below the answer in the same chart's 
+---------
